@@ -1,4 +1,4 @@
-# InSight_seismic_data
+# InSight Seismic Data Downloader
 Scripts for InSight seismic data download and processing.
 
 ## Dependencies
@@ -15,7 +15,7 @@ This repository contains:
 4. The python script **eventdownloader.py**, which is used for downloading and processing of a unique event data.
 5. The python script **massivedownloader.py**, which is used for downloading and processing of events' data of a specific event Type and Quality (see Clinton et al., 2021 for details).
 
-# Output files
+## Output files
 
 The output files of the suite are saved in a directory that has the following format in your system: **DATA/Event_Type/Event_Quality/Event_Name/**. There are 4 mseed files: 
 
