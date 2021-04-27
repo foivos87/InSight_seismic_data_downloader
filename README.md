@@ -2,7 +2,7 @@
 Scripts for InSight seismic data download and processing.
 
 ## Contributors
-Foivos Karakostas, Doyeon Kim, Ross Maguire, Aisha Khatib, Quancheng Huang, Angela Marusiak, Nicholas Schmerr - the University of Maryland, College Park, InSight group
+Foivos Karakostas, Doyeon Kim, Ross Maguire, Aisha Khatib, Quancheng Huang, Angela Marusiak, Nicholas Schmerr, Ved Lekić - the University of Maryland, College Park, InSight group
 
 ## Dependencies
 
