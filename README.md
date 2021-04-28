@@ -1,5 +1,5 @@
 # InSight Seismic Data Downloader
-Scripts for InSight seismic data download and processing.
+Scripts for InSight seismic data download and processing. [![DOI](https://zenodo.org/badge/355573040.svg)](https://zenodo.org/badge/latestdoi/355573040)
 
 ## Contributors
 Foivos Karakostas, Doyeon Kim, Ross Maguire, Aisha Khatib, Quancheng Huang, Angela Marusiak, Nicholas Schmerr, Ved Lekić - the University of Maryland, College Park, InSight group
