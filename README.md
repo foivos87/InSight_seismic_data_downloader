@@ -6,7 +6,7 @@ Foivos Karakostas, Doyeon Kim, Ross Maguire, Aisha Khatib, Quancheng Huang, Ange
 
 ## Dependencies
 
-In order to use this suite, a python3 installation in your system is necessary, as well as the ObsPy open sourced framework (https://github.com/obspy/obspy/wiki). Please acknowledge and cite the ObsPy references accordingly.
+In order to use this suite, a python3 installation in your system is necessary, as well as the [ObsPy open sourced framework](https://github.com/obspy/obspy/wiki). Please acknowledge and cite the ObsPy references accordingly.
 
 ## Contents
 
